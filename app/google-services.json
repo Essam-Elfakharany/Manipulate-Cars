@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544921515872",
+    "project_id": "cars-524d5",
+    "storage_bucket": "cars-524d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544921515872:android:ecbf0f552c2d18178d9005",
+        "android_client_info": {
+          "package_name": "com.example.manipulatecars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544921515872-phdht9htdofnbkdpncki23g68t7q0aa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbhjBewz2vs6AGJfvh3Zs-hOYn9miq9yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544921515872-phdht9htdofnbkdpncki23g68t7q0aa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
